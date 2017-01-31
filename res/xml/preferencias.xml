@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="IP"
+        android:title="@string/IP"
+        android:icon="@android:drawable/ic_menu_gallery" />
+
+    <EditTextPreference
+        android:key="cambiarIp"
+        android:title="Cambiar ip"
+        android:summary="Define aqui la dirección IP a la que deseas conectar"
+        android:defaultValue="http://iesayala.ddns.net/adolfopalma/php.php" />
+
+
+</PreferenceScreen>

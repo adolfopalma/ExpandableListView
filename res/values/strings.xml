@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Base Datos PHP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Preferencias">Preferencias</string>
+    <string name="IP">Dirección IP</string>
+
+</resources>
